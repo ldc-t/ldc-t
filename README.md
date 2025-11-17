@@ -68,12 +68,4 @@ Aplicação para organização de tarefas, no estilo Kanban.
 
 ---
 
-## 📫 Como me encontrar
 
-📧 Email: **priscila.gregorio@itssolucoes.com.br**  
-📱 WhatsApp: **(11) xxx-xxxx** *(se quiser posso remover)*  
-🔗 LinkedIn: *(me passe o link que eu coloco aqui)*
-
----
-
-<p align="center">Feito com 💙 por Lucas</p>
