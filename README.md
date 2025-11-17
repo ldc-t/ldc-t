@@ -1,4 +1,7 @@
-<h1 align="center">Olá, eu sou o Lucas 👋</h1>
+## 👨‍💼 Sobre mim
+
+Desenvolvedor focado em criar soluções eficientes e práticas. Este repositório reúne alguns dos meus projetos e estudos.
+
 
 <p align="center">
   Desenvolvedor <strong>Full Stack</strong> | Front-end & Back-end | Angular • React • C# • APIs
